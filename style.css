@@ -89,6 +89,11 @@ body {
 	object-fit: cover;
 }
 
+img {
+	content: url('./img/snow-small.jpg');
+}
+
+
 #nasaVideo {
   display: none;
 }
@@ -388,7 +393,12 @@ top: 60px;
 
 	.screen {
 		height: 380px;
+		
 	}
+
+img {
+	content: url('./img/snow-big.jpg');
+}
 
 	.change-to-light,
 	.change-to-dark {
