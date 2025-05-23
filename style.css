@@ -221,8 +221,14 @@ body {
 @media (min-width: 375px) {
 	.wrapper {
 		width: 350px;
-		height: 600px;
+		height: 700px;
 	}
+
+	.snack,
+.thanks,
+.back-to-info {
+margin-bottom:50px;
+}
 
 	.screen {
 		height: 220px;
