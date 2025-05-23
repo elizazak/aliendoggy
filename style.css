@@ -221,7 +221,7 @@ body {
 @media (min-width: 375px) {
 	.wrapper {
 		width: 350px;
-		height: 650px;
+		height: 600px;
 	}
 
 	.screen {
